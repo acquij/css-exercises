@@ -1,0 +1,16 @@
+.class {
+    background-color: #e4668a;
+    font-family: sans-serif;
+}
+.cool {
+    font-size: 24px;
+}
+#one {
+    color: #3441d6;
+    font-size: 36px;
+}
+#another {
+    background-color: #18ed38;
+    font-size: 24px;
+    font-weight: bold;
+}
